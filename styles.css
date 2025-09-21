@@ -1,0 +1,10 @@
+/* Minimal styles for the demo app */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+  background: #071022;
+}
+
+textarea { font-family: inherit; }
+button { font-family: inherit; }
